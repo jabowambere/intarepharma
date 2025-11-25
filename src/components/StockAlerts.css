@@ -1,0 +1,33 @@
+.stock-alerts-container {
+  margin-bottom: 32px;
+}
+
+.alert-icon {
+  font-size: 24px;
+  flex-shrink: 0;
+}
+
+.alert-content {
+  flex: 1;
+}
+
+.alert-content strong {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.alert-content p {
+  margin: 8px 0;
+}
+
+.alert-list {
+  margin: 12px 0 0 0;
+  padding-left: 20px;
+}
+
+.alert-list li {
+  margin: 8px 0;
+  line-height: 1.6;
+}
+
